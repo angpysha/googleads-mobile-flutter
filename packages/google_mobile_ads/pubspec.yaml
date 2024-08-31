@@ -19,6 +19,7 @@ description: Flutter plugin for Google Mobile Ads, supporting
 repository: https://github.com/googleads/googleads-mobile-flutter/tree/main/packages/google_mobile_ads
 
 flutter:
+  disable-swift-package-manager: true
   plugin:
     platforms:
       android:
